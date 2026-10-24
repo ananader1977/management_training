@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="referrer" content="origin">
-  <meta name="description" content="Al Bonian FM Management Academy — daily video training for Finance, Leadership, Procurement, HR, Quality & HSE and Business Development.">
+  <meta name="description" content="Al Bonian FM Management Academy — daily video training for Finance, Leadership, Procurement, HR, Quality & HSE, Business Development and IT.">
   <title>Al Bonian FM | Management Academy</title>
   <link rel="icon" type="image/png" href="logo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -39,6 +39,7 @@
       --d-hr: #C0336E;
       --d-qhse: #0F8FA3;
       --d-bd: #2563EB;
+      --d-it: #475B73;
     }
 
     * { box-sizing: border-box; }
@@ -185,7 +186,8 @@
     .section-head p { margin: 2px 0 0; color: var(--muted); font-size: 13.5px; }
     .depts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
     @media (min-width: 720px) { .depts { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
-    @media (min-width: 1100px) { .depts { grid-template-columns: repeat(6, minmax(0, 1fr)); } }
+    @media (min-width: 960px) { .depts { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+    @media (min-width: 1180px) { .depts { grid-template-columns: repeat(7, minmax(0, 1fr)); } }
     .dept {
       --c: var(--brand);
       position: relative; text-align: left; border: 1px solid var(--line); border-radius: 16px; padding: 14px 14px 13px;
@@ -368,7 +370,7 @@
       </div>
       <div class="gate-depts" aria-hidden="true">
         <span style="background:var(--d-finance)"></span><span style="background:var(--d-leadership)"></span><span style="background:var(--d-procurement)"></span>
-        <span style="background:var(--d-hr)"></span><span style="background:var(--d-qhse)"></span><span style="background:var(--d-bd)"></span>
+        <span style="background:var(--d-hr)"></span><span style="background:var(--d-qhse)"></span><span style="background:var(--d-bd)"></span><span style="background:var(--d-it)"></span>
       </div>
       <form id="login-form" novalidate>
         <div>
@@ -435,7 +437,7 @@
     <section class="hero">
       <div class="greet">
         <h2 id="greeting">Good morning.</h2>
-        <p id="greet-sub">New management training videos are posted every morning across six departments. Pick a department or start with today's featured session.</p>
+        <p id="greet-sub">New management training videos are posted every morning across seven departments. Pick a department or start with today's featured session.</p>
         <div class="stat-row">
           <div class="stat"><b id="stat-total">0</b><span>videos in the library</span></div>
           <div class="stat"><b id="stat-week">0</b><span>posted in the last 7 days</span></div>
@@ -689,7 +691,8 @@
       { key: "Procurement", short: "Procurement", color: "var(--d-procurement)", icon: "procurement" },
       { key: "HR", short: "HR", color: "var(--d-hr)", icon: "hr" },
       { key: "Quality & HSE", short: "Quality & HSE", color: "var(--d-qhse)", icon: "qhse" },
-      { key: "Business Development", short: "Business Dev.", color: "var(--d-bd)", icon: "bd" }
+      { key: "Business Development", short: "Business Dev.", color: "var(--d-bd)", icon: "bd" },
+      { key: "IT", short: "IT", color: "var(--d-it)", icon: "it" }
     ];
     const ICONS = {
       finance: '<path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 6-6"/><path d="M15 8h5v5"/>',
@@ -697,7 +700,8 @@
       procurement: '<path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 01-8 0"/>',
       hr: '<path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/>',
       qhse: '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/>',
-      bd: '<path d="M20 7h-9M14 17H5"/><circle cx="17" cy="17" r="3"/><circle cx="7" cy="7" r="3"/>'
+      bd: '<path d="M20 7h-9M14 17H5"/><circle cx="17" cy="17" r="3"/><circle cx="7" cy="7" r="3"/>',
+      it: '<rect x="2" y="4" width="20" height="13" rx="2"/><path d="M8 21h8M12 17v4"/>'
     };
     const LEVELS = ["Foundation", "Practitioner", "Executive"];
     const CREDENTIALS = {
@@ -1120,7 +1124,7 @@
       const id = ytId($("ad-url").value);
       if (!id) { $("ad-error").style.display = "block"; return; }
       const dept = $("ad-dept").value;
-      const prefix = { "Finance": "fin", "Leadership": "lead", "Procurement": "proc", "HR": "hr", "Quality & HSE": "qhse", "Business Development": "bd" }[dept] || "vid";
+      const prefix = { "Finance": "fin", "Leadership": "lead", "Procurement": "proc", "HR": "hr", "Quality & HSE": "qhse", "Business Development": "bd", "IT": "it" }[dept] || "vid";
       const v = {
         id: `${prefix}-local-${Date.now().toString(36)}`,
         title: $("ad-title").value.trim(),
@@ -1245,7 +1249,7 @@
         text = `*Al Bonian FM — Management Academy*\n\n🎬 *${v.title}*\n📂 ${v.department} · ${v.level}\n\n${v.summary}\n\n💡 *Apply it:* ${v.applyIt || ""}\n\n▶️ Watch: ${watchUrl(v)}\n📚 Full library: ${portalUrl()}`;
       } else {
         const latest = [...activeVideos()].sort((a, b) => (b.publishDate || "").localeCompare(a.publishDate || "")).slice(0, 6);
-        text = `*Al Bonian FM — Management Academy*\nDaily video training for Finance, Leadership, Procurement, HR, Quality & HSE and Business Development.\n\n*Latest videos:*\n` +
+        text = `*Al Bonian FM — Management Academy*\nDaily video training for Finance, Leadership, Procurement, HR, Quality & HSE, Business Development and IT.\n\n*Latest videos:*\n` +
           latest.map(x => `• ${x.title} (${x.department})`).join("\n") +
           `\n\n🔗 ${portalUrl()}\nAsk the IT Manager for the Academy password.`;
       }

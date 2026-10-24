@@ -5,8 +5,8 @@
 // To add a video, append a NEW entry at the end of the array with a
 // unique id and these fields:
 //   department : "Finance" | "Leadership" | "Procurement" | "HR"
-//                | "Quality & HSE" | "Business Development"
-//   id prefix  : fin- | lead- | proc- | hr- | qhse- | bd-
+//                | "Quality & HSE" | "Business Development" | "IT"
+//   id prefix  : fin- | lead- | proc- | hr- | qhse- | bd- | it-
 //   level      : "Foundation" | "Practitioner" | "Executive"
 //   source     : "TED Talk" | "Professional Body" | "Training Academy"
 //                | "Industry Expert" | "Regulator"
@@ -757,5 +757,105 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Secure executive sponsorship inside your own company."
     ],
     "applyIt": "Assign a senior executive sponsor to each of the top clients and meet their leadership at least twice a year."
+  },
+  {
+    "id": "it-001",
+    "title": "What Is ITIL? IT Service Management Explained",
+    "department": "IT",
+    "topic": "IT Service Management",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "The Knowledge Academy",
+    "publishDate": "2026-10-24",
+    "duration": "3:48",
+    "embedUrl": "https://www.youtube.com/embed/Md0c86PnhXo",
+    "isNew": true,
+    "summary": "A beginner's introduction to ITIL, the framework for running IT services that meet business needs, covering the Service Value System and the Four Dimensions Model.",
+    "takeaways": [
+      "ITIL treats IT as a service delivered to the business.",
+      "The Service Value System links IT activity to business value.",
+      "Clear processes make IT support predictable and measurable."
+    ],
+    "applyIt": "Set up a simple IT ticket log with priority levels and target response times for head-office and site users."
+  },
+  {
+    "id": "it-002",
+    "title": "Zero Trust Security Explained",
+    "department": "IT",
+    "topic": "Cybersecurity",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-10-24",
+    "duration": "3:42",
+    "embedUrl": "https://www.youtube.com/embed/yn6CPQ9RioA",
+    "isNew": true,
+    "summary": "IBM explains the zero trust model: treat every user, device and connection as untrusted and verify each one continuously, supported by integrated security tools.",
+    "takeaways": [
+      "Never trust by default; always verify.",
+      "Grant users only the access they need.",
+      "Integrated tools give a clearer view of threats."
+    ],
+    "applyIt": "Review who has admin access to email, finance and CAFM systems and remove any rights that aren't needed."
+  },
+  {
+    "id": "it-003",
+    "title": "What Is a CMMS?",
+    "department": "IT",
+    "topic": "FM Technology",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Facilio",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/GqNbuwfLkzc",
+    "isNew": true,
+    "summary": "A short explainer on computerised maintenance management systems: tracking work orders, assets and spare parts in one place, and using preventive schedules and building data to cut breakdowns.",
+    "takeaways": [
+      "A CMMS puts work orders, assets and spares in one system.",
+      "Preventive schedules reduce reactive breakdowns.",
+      "Connected data supports better maintenance decisions."
+    ],
+    "applyIt": "Check that every asset on your top contracts is registered in the system with a preventive maintenance schedule attached."
+  },
+  {
+    "id": "it-004",
+    "title": "How CAFM Software Transforms Facility Management",
+    "department": "IT",
+    "topic": "FM Technology",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "UpKeep",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/j7-maM24CmY",
+    "isNew": true,
+    "summary": "Introduces computer-aided facilities management software, its core modules such as space, asset and building administration, and how CAFM compares with CMMS and IWMS.",
+    "takeaways": [
+      "CAFM covers space, assets and building administration.",
+      "CAFM, CMMS and IWMS solve different problems.",
+      "Configure the system around your real workflows."
+    ],
+    "applyIt": "Map which FM workflows still run on paper or spreadsheets and rank them for moving into the CAFM/Zoho system."
+  },
+  {
+    "id": "it-005",
+    "title": "Introduction to AI for Leaders",
+    "department": "IT",
+    "topic": "Artificial Intelligence",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "HBS Online",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/9qkeU03QYjw",
+    "isNew": true,
+    "summary": "Harvard Business School Online on leading AI transformation responsibly and at scale: rethinking systems, empowering teams, setting an AI strategy and overcoming cultural barriers.",
+    "takeaways": [
+      "AI value comes from redesigning work, not just adding tools.",
+      "Leaders set the strategy and the ethical guardrails.",
+      "Culture and structure decide whether AI scales."
+    ],
+    "applyIt": "Pick one repetitive back-office process (e.g. report preparation or ticket triage) and pilot an AI tool on it for one month with clear success measures."
   }
 ];
