@@ -297,5 +297,465 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Involve third parties to widen the options."
     ],
     "applyIt": "Before your next contract renewal or deduction dispute, write down the client's underlying interests, not just their demands."
+  },
+  {
+    "id": "fin-003",
+    "title": "Budget vs Forecast: Financial Forecasting Explained",
+    "department": "Finance",
+    "topic": "Budgeting & Forecasting",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "CandiMentor",
+    "publishDate": "2026-10-24",
+    "duration": "6:43",
+    "embedUrl": "https://www.youtube.com/embed/c2W2V-apWbQ",
+    "isNew": true,
+    "summary": "Shows how a budget sets fixed targets while a forecast is updated to reflect actual performance, covering rolling forecasts, assumptions, scenarios and variance review.",
+    "takeaways": [
+      "A budget is the plan; a forecast is the latest view of reality.",
+      "Rolling forecasts keep planning current as the year moves.",
+      "Variance review explains why results differ from plan."
+    ],
+    "applyIt": "Run a monthly budget-vs-actual review per contract and update the full-year forecast for any line off by more than 10%."
+  },
+  {
+    "id": "fin-004",
+    "title": "Cash Flow Forecasting: Short-Term, 13-Week and Long-Term",
+    "department": "Finance",
+    "topic": "Cash Flow",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "Corporate Finance Institute",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/dUEDS4w3p28",
+    "isNew": true,
+    "summary": "Explains how profit, EBITDA and cash differ, and how short-term, 13-week and long-range cash forecasts reveal timing gaps and funding needs before a liquidity crunch.",
+    "takeaways": [
+      "Profit and EBITDA are not cash in the bank.",
+      "A 13-week forecast exposes near-term timing gaps.",
+      "Long-range forecasts show future funding needs early."
+    ],
+    "applyIt": "Add a weekly cash line to the management meeting showing expected collections against payroll and supplier payments for the next 13 weeks."
+  },
+  {
+    "id": "fin-005",
+    "title": "Working Capital Management: Optimising Liquidity",
+    "department": "Finance",
+    "topic": "Working Capital",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "Corporate Finance Institute",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Z2iSy4nnYZI",
+    "isNew": true,
+    "summary": "Covers the cash conversion cycle and practical working-capital strategies such as tighter receivable terms, centralised treasury and stress testing, with examples from large companies.",
+    "takeaways": [
+      "The cash conversion cycle shows how long cash is tied up.",
+      "Faster collections free cash without new borrowing.",
+      "Stress-test liquidity before it is needed."
+    ],
+    "applyIt": "Measure days sales outstanding per major client and agree a collection target for the three slowest payers."
+  },
+  {
+    "id": "fin-006",
+    "title": "Gross, Operating and Net Profit Margin",
+    "department": "Finance",
+    "topic": "Profitability",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "The Organic Chemistry Tutor",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/uYM2YnwO-20",
+    "isNew": true,
+    "summary": "Worked examples showing how to calculate gross, operating and net profit margins from an income statement.",
+    "takeaways": [
+      "Gross margin shows profit after direct costs.",
+      "Operating margin adds overheads to the picture.",
+      "Net margin is what is left after all costs and tax."
+    ],
+    "applyIt": "Compare gross margin by contract to spot which sites carry the company and which need repricing at renewal."
+  },
+  {
+    "id": "lead-004",
+    "title": "Everyday Leadership",
+    "department": "Leadership",
+    "topic": "Leadership Mindset",
+    "level": "Foundation",
+    "source": "TED Talk",
+    "channel": "TED-Ed (Drew Dudley)",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/uAy6EawKKME",
+    "isNew": true,
+    "summary": "Drew Dudley argues that leadership is found in small, everyday acts that change someone's day, not only in grand achievements.",
+    "takeaways": [
+      "Small acts of leadership happen every day.",
+      "People often don't know the impact they had on others.",
+      "Recognising others' impact builds a leadership culture."
+    ],
+    "applyIt": "Ask each supervisor to recognise one team member's specific contribution in the weekly site meeting."
+  },
+  {
+    "id": "lead-005",
+    "title": "Delegating: Why It Matters for Managers",
+    "department": "Leadership",
+    "topic": "Delegation",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "Harvard Business Impact",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/i41cFYIMQlw",
+    "isNew": true,
+    "summary": "Introduces why delegation is essential to management, and how to assess a task, match it to an employee's skills and support them to completion.",
+    "takeaways": [
+      "Delegation is a core management skill, not a favour.",
+      "Match the task to the person's skills and growth goals.",
+      "Stay available for support without taking the work back."
+    ],
+    "applyIt": "List three recurring tasks you still do yourself each week and hand one over to a direct report with a clear deadline."
+  },
+  {
+    "id": "lead-006",
+    "title": "How to Delegate When You Can't Let Go",
+    "department": "Leadership",
+    "topic": "Delegation",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "David Burkus",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/UkLyv5Juq68",
+    "isNew": true,
+    "summary": "Common delegation mistakes such as hovering or handing off tasks without ownership, and fixes like matching responsibility to readiness, setting checkpoints and sharing real authority.",
+    "takeaways": [
+      "Delegate ownership of outcomes, not just tasks.",
+      "Set checkpoints instead of hovering.",
+      "Give authority to make decisions along with the work."
+    ],
+    "applyIt": "When assigning a new site mobilisation, agree two checkpoints and let the site lead decide everything in between."
+  },
+  {
+    "id": "lead-007",
+    "title": "How to Give Feedback, Especially When You're Dreading It",
+    "department": "Leadership",
+    "topic": "Feedback",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "Harvard Business Review",
+    "publishDate": "2026-10-24",
+    "duration": "10:54",
+    "embedUrl": "https://www.youtube.com/embed/jhtwqK3iOV8",
+    "isNew": true,
+    "summary": "HBR's guide to delivering critical feedback with empathy and clarity: common mistakes, a simple recipe, handling disagreement and practising difficult conversations.",
+    "takeaways": [
+      "Prepare the message; don't improvise hard feedback.",
+      "Be specific about behaviour and its impact.",
+      "Invite the other person's view and agree next steps."
+    ],
+    "applyIt": "Before your next performance conversation, write down one specific example and the impact it had on the client or team."
+  },
+  {
+    "id": "proc-003",
+    "title": "The Ultimate Guide to Spend Analysis",
+    "department": "Procurement",
+    "topic": "Spend Analysis",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Suplari",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/omCQr_HgCQ0",
+    "isNew": true,
+    "summary": "Explains spend analysis from collecting and cleaning purchase data to building a spend cube, common pitfalls like messy data and tail spend, and turning insight into savings.",
+    "takeaways": [
+      "Clean, categorised data is the foundation of spend analysis.",
+      "Tail spend hides savings across many small purchases.",
+      "Insights only matter when they lead to sourcing action."
+    ],
+    "applyIt": "Export last year's purchase orders, group them by category and supplier, and find the top 10 categories by spend."
+  },
+  {
+    "id": "proc-004",
+    "title": "Contract Negotiation Strategies for Procurement",
+    "department": "Procurement",
+    "topic": "Negotiation",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Master Contract Management",
+    "publishDate": "2026-10-24",
+    "duration": "4:46",
+    "embedUrl": "https://www.youtube.com/embed/Ii2KC7P5IqY",
+    "isNew": true,
+    "summary": "How negotiation shapes what you actually pay under construction and procurement contracts, with focus on payment terms, retention and the tender as the starting point.",
+    "takeaways": [
+      "Negotiation is about clarity, not winning.",
+      "Payment terms and retention matter as much as price.",
+      "The tender sets the frame for the whole negotiation."
+    ],
+    "applyIt": "In the next subcontract award, negotiate payment milestones and retention explicitly instead of only the lump-sum price."
+  },
+  {
+    "id": "proc-005",
+    "title": "Procurement Contracting: Commercial, Legal and Risk",
+    "department": "Procurement",
+    "topic": "Contract Management",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Professor Simon Croom",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/3VorbAZu2cU",
+    "isNew": true,
+    "summary": "Covers the full contract lifecycle from pre-award and scope design to performance monitoring, disputes, amendments and close-out, balancing commercial and legal goals.",
+    "takeaways": [
+      "Contract value is won or lost in the scope of work.",
+      "Monitor performance during the contract, not only at renewal.",
+      "The contract manager coordinates procurement, legal, finance and operations."
+    ],
+    "applyIt": "Assign a named owner for each major subcontract and review their scope, KPIs and variations quarterly."
+  },
+  {
+    "id": "hr-003",
+    "title": "Structured Interviews Explained",
+    "department": "HR",
+    "topic": "Recruitment",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "GoodHiresOnly",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/1YwMfHXArPg",
+    "isNew": true,
+    "summary": "How structured interviews make hiring more consistent and less biased, with steps for standard questions, scoring rubrics and interviewer training.",
+    "takeaways": [
+      "Ask every candidate the same job-relevant questions.",
+      "Score answers against a rubric agreed in advance.",
+      "Train interviewers to reduce bias and gut-feel hiring."
+    ],
+    "applyIt": "Create a five-question interview guide with a scoring sheet for supervisor-level hires and use it for every candidate."
+  },
+  {
+    "id": "hr-004",
+    "title": "Employee Retention Strategies",
+    "department": "HR",
+    "topic": "Retention",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "HR Trends",
+    "publishDate": "2026-10-24",
+    "duration": "13:21",
+    "embedUrl": "https://www.youtube.com/embed/tgX607r_jZs",
+    "isNew": true,
+    "summary": "Explains employee retention, how to calculate retention rates, the main causes of turnover and practical strategies to keep good people.",
+    "takeaways": [
+      "Track retention rate, not just headcount.",
+      "Know why people leave before trying to fix it.",
+      "Belonging, wellbeing and listening drive retention."
+    ],
+    "applyIt": "Calculate 12-month retention for each department and hold stay interviews with your top performers."
+  },
+  {
+    "id": "hr-005",
+    "title": "Training Needs Analysis Explained",
+    "department": "HR",
+    "topic": "Learning & Development",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "CodeLucky",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/d0HPcpSnCyc",
+    "isNew": true,
+    "summary": "Introduces training needs analysis at organisational, task and individual levels, the TNA process, data-collection methods and common mistakes.",
+    "takeaways": [
+      "Analyse needs at organisation, job and individual level.",
+      "Base training on evidence of skill gaps.",
+      "Link every training plan to a business outcome."
+    ],
+    "applyIt": "Run a quick skills-gap survey for supervisors and use it to choose next quarter's training topics."
+  },
+  {
+    "id": "hr-006",
+    "title": "Performance Appraisals: A Guide for Managers and HR",
+    "department": "HR",
+    "topic": "Performance Management",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "CodeLucky",
+    "publishDate": "2026-10-24",
+    "duration": "3:58",
+    "embedUrl": "https://www.youtube.com/embed/AbTza-1wn_A",
+    "isNew": true,
+    "summary": "What performance appraisals are for and how to run them well, including SMART goals, the SBI feedback model and avoiding recency and halo bias.",
+    "takeaways": [
+      "Set SMART goals at the start of the period.",
+      "Use Situation–Behaviour–Impact to give feedback.",
+      "Watch for recency and halo bias when rating."
+    ],
+    "applyIt": "Rewrite each direct report's annual objectives as SMART goals before the next review cycle."
+  },
+  {
+    "id": "qhse-004",
+    "title": "The 5 Whys: Root Cause Analysis",
+    "department": "Quality & HSE",
+    "topic": "Root Cause Analysis",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "EPM",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/t7FcK8jV2yA",
+    "isNew": true,
+    "summary": "How to use the 5 Whys technique to find the root cause of a problem, its strengths and limits, and how to apply countermeasures.",
+    "takeaways": [
+      "Keep asking why until you reach a process cause.",
+      "Fix the root cause, not the symptom.",
+      "Combine 5 Whys with data to avoid guesswork."
+    ],
+    "applyIt": "Use the 5 Whys on the next repeat breakdown or client complaint and record the countermeasure in the CAPA log."
+  },
+  {
+    "id": "qhse-005",
+    "title": "Fishbone Diagram for Root Cause Analysis",
+    "department": "Quality & HSE",
+    "topic": "Root Cause Analysis",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "The Business Analysis Doctor",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/AyJ9iEOH0ZY",
+    "isNew": true,
+    "summary": "Explains the fishbone (Ishikawa) diagram, its cause categories such as the 6Ms, and how to use it with the 5 Whys and brainstorming.",
+    "takeaways": [
+      "Group possible causes into categories like the 6Ms.",
+      "Use the team's knowledge to fill in the diagram.",
+      "Drill into the likeliest causes with the 5 Whys."
+    ],
+    "applyIt": "Run a fishbone session with the site team for the most frequent SLA breach on a key contract."
+  },
+  {
+    "id": "qhse-006",
+    "title": "The ISO 9001 Internal Audit Process",
+    "department": "Quality & HSE",
+    "topic": "Audits",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "PECB",
+    "publishDate": "2026-10-24",
+    "duration": "1:11:39",
+    "embedUrl": "https://www.youtube.com/embed/18Fua7om8OA",
+    "isNew": true,
+    "summary": "A webinar on planning and carrying out ISO 9001 internal audits, why they matter and what an internal audit programme must include.",
+    "takeaways": [
+      "Internal audits test whether the system works in practice.",
+      "Plan an audit programme based on risk and past results.",
+      "Follow up findings until corrective actions are verified."
+    ],
+    "applyIt": "Set a risk-based internal audit plan for next year that covers every contract at least once."
+  },
+  {
+    "id": "bd-003",
+    "title": "How to Write a Winning Tender",
+    "department": "Business Development",
+    "topic": "Tenders & Proposals",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "The Bid Expert",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/MBBrEBWxdVk",
+    "isNew": true,
+    "summary": "A six-step approach to tender responses that stand out: understand the client, follow instructions, involve the team, show capability, review and submit on time.",
+    "takeaways": [
+      "Understand the client's real needs before writing.",
+      "Follow the tender instructions exactly.",
+      "Review the full submission before it goes out."
+    ],
+    "applyIt": "Introduce a bid/no-bid checklist and a final compliance review for every FM tender."
+  },
+  {
+    "id": "bd-004",
+    "title": "Introduction to Tender Writing",
+    "department": "Business Development",
+    "topic": "Tenders & Proposals",
+    "level": "Practitioner",
+    "source": "Regulator",
+    "channel": "business.gov.au",
+    "publishDate": "2026-10-24",
+    "duration": "1:21:46",
+    "embedUrl": "https://www.youtube.com/embed/9xT9F5_KSDQ",
+    "isNew": true,
+    "summary": "A government-run session on preparing tender submissions that are more likely to succeed, with tested methods to improve win rates.",
+    "takeaways": [
+      "Read evaluation criteria first and answer to them.",
+      "Give evidence, not claims, for each capability.",
+      "Learn from debriefs on lost bids."
+    ],
+    "applyIt": "Request a debrief on the last two lost tenders and log the lessons for the BD team."
+  },
+  {
+    "id": "bd-005",
+    "title": "Negotiate Better Deals Without Burning Bridges",
+    "department": "Business Development",
+    "topic": "Negotiation",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Behind the Brand (Chris Voss)",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/7_VpQawHawo",
+    "isNew": true,
+    "summary": "Former FBI negotiator Chris Voss on collaborative negotiation, spotting when you are only being used for price comparison, and building lasting client relationships.",
+    "takeaways": [
+      "Treat negotiation as collaboration, not a fight.",
+      "Ask the client why they chose to talk to you.",
+      "Spot when you're only a benchmark quote."
+    ],
+    "applyIt": "Before pricing the next quotation, ask the client what made them invite Al Bonian and what success looks like to them."
+  },
+  {
+    "id": "bd-006",
+    "title": "The Four Components of Strategic Account Management",
+    "department": "Business Development",
+    "topic": "Key Account Management",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Drift (Greg Callahan, Bain & Company)",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Ec2UspaZHSg",
+    "isNew": true,
+    "summary": "A Bain partner outlines four keys to strategic account management: choosing focus accounts, setting a cadence, developing plays and keeping it simple.",
+    "takeaways": [
+      "Focus effort on the accounts with most potential.",
+      "Set a regular cadence of contact and review.",
+      "Develop repeatable plays to grow each account."
+    ],
+    "applyIt": "Pick your top five clients and agree a quarterly review meeting and growth plan for each."
+  },
+  {
+    "id": "bd-007",
+    "title": "How to Make Key Account Management Work",
+    "department": "Business Development",
+    "topic": "Key Account Management",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Account Management Secrets (AMplify)",
+    "publishDate": "2026-10-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/wXOy82cSgcg",
+    "isNew": true,
+    "summary": "Why key account programmes fail when treated as ordinary sales, and how to study a client's strategy, segment accounts and reach senior decision-makers.",
+    "takeaways": [
+      "Key accounts need a long-term business plan, not a sales push.",
+      "Understand the client's strategy and financial priorities.",
+      "Secure executive sponsorship inside your own company."
+    ],
+    "applyIt": "Assign a senior executive sponsor to each of the top clients and meet their leadership at least twice a year."
   }
 ];
