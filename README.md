@@ -1,6 +1,6 @@
-# Al Bonian FM — Management Academy
+# Anas Nader — Personal Training
 
-Daily video training portal for Al Bonian FM management: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management and Property Inspection & Valuation**.
+Anas Nader's personal training portal (Media · Leadership · Fitness · Impact) — daily video training across: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management and Property Inspection & Valuation**.
 
 Live site: https://ananader1977.github.io/personal_training/
 
@@ -18,14 +18,15 @@ Note: the sign-in is a simple gate in the browser, not real security — the rep
 
 - `index.html` — the portal (single page, vanilla JS, no build step).
 - `videos.js` — the video library (`window.ALBONIAN_MGMT_VIDEOS`). A scheduled task appends one verified YouTube video per department every morning (Dubai time).
-- `logo.png` — Al Bonian FM logo.
+- `logo.png` — Anas Nader logo (sign-in screen); `logo-mark.png` — monogram (header and favicon).
+- Theme: black (#070707) with gold (#EFC465 → #BD8D4B) and white, matching the logo.
 
 ## Features
 
 - Department tiles with per-department progress
 - Filters: department, training type (process / on-the-job), posting date (today / 7 / 30 / 90 days / pick a date), level, search, saved, not completed
 - Grid view or **By date** view grouped by posting date
-- Video player with key takeaways and an "Apply it at Al Bonian" action
+- Video player with key takeaways and an "Apply it" action
 - My learning: overall and per-department completion, saved and completed lists (stored on the device)
 - Admin: remove/restore videos, add a video, export the library as JSON (device-only changes)
 - WhatsApp sharing for the portal or a single video
