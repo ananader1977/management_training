@@ -1,6 +1,6 @@
 # Al Bonian FM — Management Academy
 
-Daily video training portal for Al Bonian FM management: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT and Facilities Management**.
+Daily video training portal for Al Bonian FM management: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management and Property Inspection & Valuation**.
 
 Live site: https://ananader1977.github.io/management_training/
 
@@ -23,7 +23,7 @@ Note: the sign-in is a simple gate in the browser, not real security — the rep
 ## Features
 
 - Department tiles with per-department progress
-- Filters: department, posting date (today / 7 / 30 / 90 days / pick a date), level, search, saved, not completed
+- Filters: department, training type (process / on-the-job), posting date (today / 7 / 30 / 90 days / pick a date), level, search, saved, not completed
 - Grid view or **By date** view grouped by posting date
 - Video player with key takeaways and an "Apply it at Al Bonian" action
 - My learning: overall and per-department completion, saved and completed lists (stored on the device)

@@ -6,8 +6,8 @@
 // unique id and these fields:
 //   department : "Finance" | "Leadership" | "Procurement" | "HR"
 //                | "Quality & HSE" | "Business Development" | "IT"
-//                | "Facilities Management"
-//   id prefix  : fin- | lead- | proc- | hr- | qhse- | bd- | it- | fm-
+//                | "Facilities Management" | "Property Inspection & Valuation"
+//   id prefix  : fin- | lead- | proc- | hr- | qhse- | bd- | it- | fm- | pv-
 //   level      : "Foundation" | "Practitioner" | "Executive"
 //   source     : "TED Talk" | "Professional Body" | "Training Academy"
 //                | "Industry Expert" | "Regulator"
@@ -15,6 +15,7 @@
 //   publishDate: "YYYY-MM-DD" (date the video was posted to the portal)
 //   duration   : "m:ss" or "" if unknown
 //   takeaways  : exactly 3 short points
+//   format     : optional — "Process" | "On-the-job" (used for Property Inspection & Valuation)
 //   applyIt    : 1 sentence on applying the idea at Al Bonian FM
 // Keep valid JavaScript: commas between entries, quotes around text.
 // =====================================================================
@@ -1238,5 +1239,278 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "A CMMS provides the data the standard relies on."
     ],
     "applyIt": "Assess the company's asset register and maintenance data against ISO 55001 as a step toward stronger government tenders."
+  },
+  {
+    "id": "pv-001",
+    "title": "What a Building Condition Survey Involves",
+    "department": "Property Inspection & Valuation",
+    "topic": "Condition Surveys",
+    "format": "Process",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "London Building Surveyors",
+    "publishDate": "2026-10-25",
+    "duration": "2:19",
+    "embedUrl": "https://www.youtube.com/embed/y-o7DAH-uNo",
+    "isNew": true,
+    "summary": "A RICS chartered surveyor explains what a building condition inspection covers, so clients and new inspectors know what the process involves.",
+    "takeaways": [
+      "A condition survey records the state of each building element.",
+      "Findings are rated by condition and urgency.",
+      "The report guides repair budgets and priorities."
+    ],
+    "applyIt": "Use a standard condition-survey template (element, condition rating, action, cost) for every new FM contract mobilisation."
+  },
+  {
+    "id": "pv-002",
+    "title": "RICS Home Survey Levels Explained",
+    "department": "Property Inspection & Valuation",
+    "topic": "Survey Standards",
+    "format": "Process",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "bValued (Arthur Bletchly)",
+    "publishDate": "2026-10-25",
+    "duration": "18:00",
+    "embedUrl": "https://www.youtube.com/embed/kxOfw77EBeE",
+    "isNew": true,
+    "summary": "Explains the RICS Home Survey Standard, comparing the Level 1 Condition Report and Level 2 survey, with or without a valuation.",
+    "takeaways": [
+      "Survey level should match the client's need and risk.",
+      "Each level sets what is and isn't inspected.",
+      "Be clear on scope before quoting a survey."
+    ],
+    "applyIt": "Define three inspection service levels (basic, standard, detailed) with clear scope for Al Bonian's inspection clients."
+  },
+  {
+    "id": "pv-003",
+    "title": "Commercial Property Inspection: The Preliminary Walkthrough",
+    "department": "Property Inspection & Valuation",
+    "topic": "Inspection Process",
+    "format": "Process",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "CCPIA",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/-JuAXaLQ4z4",
+    "isNew": true,
+    "summary": "Shows how to carry out the preliminary walkthrough, the first stage of a commercial property inspection, as a step-by-step process.",
+    "takeaways": [
+      "Start with a full walkthrough before detailed checks.",
+      "Note access, hazards and areas needing specialists.",
+      "The walkthrough shapes the inspection plan."
+    ],
+    "applyIt": "Add a 30-minute preliminary walkthrough step to every commercial inspection before the detailed MEP checks begin."
+  },
+  {
+    "id": "pv-004",
+    "title": "Real Estate Valuation Methods: Sales, Cost and Income",
+    "department": "Property Inspection & Valuation",
+    "topic": "Valuation Methods",
+    "format": "Process",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Dee Kumar Real Estate",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/h_zgUFPx22c",
+    "isNew": true,
+    "summary": "Covers the three main valuation methods (sales comparison, cost and income) with formulas and examples, plus types of depreciation and how to calculate cap rates.",
+    "takeaways": [
+      "Three core methods: comparison, cost and income.",
+      "Depreciation can be physical, functional or external.",
+      "Choose the method that fits the property type."
+    ],
+    "applyIt": "When advising a client on an asset, state which valuation method applies and why (e.g. income approach for a leased building)."
+  },
+  {
+    "id": "pv-005",
+    "title": "The Sales Comparison Approach",
+    "department": "Property Inspection & Valuation",
+    "topic": "Valuation Methods",
+    "format": "Process",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Tony Mesa Real Estate School",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/cXWZTxPRawg",
+    "isNew": true,
+    "summary": "Explains how recently sold, similar properties in the same area are used and adjusted to estimate the value of a subject property.",
+    "takeaways": [
+      "Pick truly comparable, recent sales nearby.",
+      "Adjust comparables for differences, not the subject.",
+      "More good comparables give a more reliable value."
+    ],
+    "applyIt": "Build a comparables sheet using DLD transaction data for each unit type you value in a community."
+  },
+  {
+    "id": "pv-006",
+    "title": "Cap Rate in Commercial Real Estate",
+    "department": "Property Inspection & Valuation",
+    "topic": "Income Valuation",
+    "format": "Process",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Ryan O'Connell, CFA",
+    "publishDate": "2026-10-25",
+    "duration": "4:59",
+    "embedUrl": "https://www.youtube.com/embed/CUjnjXzhdUQ",
+    "isNew": true,
+    "summary": "Defines the capitalisation rate, how to calculate net operating income and how cap rate links income to property value, with a worked example.",
+    "takeaways": [
+      "Value = net operating income ÷ cap rate.",
+      "NOI excludes financing costs.",
+      "Higher risk usually means a higher cap rate."
+    ],
+    "applyIt": "Show clients how lower FM operating costs raise NOI and therefore the capital value of their building."
+  },
+  {
+    "id": "pv-007",
+    "title": "RICS Red Book Valuation with a Savills Director",
+    "department": "Property Inspection & Valuation",
+    "topic": "Valuation Standards",
+    "format": "Process",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Your Success Podcast (Ian Fowler, Savills)",
+    "publishDate": "2026-10-25",
+    "duration": "9:55",
+    "embedUrl": "https://www.youtube.com/embed/HBvOQ-aznMg",
+    "isNew": true,
+    "summary": "A Savills director explains how a professional valuation is carried out under the RICS Red Book standard.",
+    "takeaways": [
+      "Red Book valuations follow strict RICS standards.",
+      "Lenders and courts rely on them for consistency.",
+      "Valuer independence and evidence are essential."
+    ],
+    "applyIt": "Reference RICS Red Book standards when partnering with valuers on client asset reports to strengthen credibility."
+  },
+  {
+    "id": "pv-008",
+    "title": "Preparing for a Dilapidations Survey",
+    "department": "Property Inspection & Valuation",
+    "topic": "Dilapidations",
+    "format": "Process",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "Harrison Clarke Chartered Surveyors",
+    "publishDate": "2026-10-25",
+    "duration": "4:21",
+    "embedUrl": "https://www.youtube.com/embed/kf2P7vVSOHE",
+    "isNew": true,
+    "summary": "Guides landlords through preparing for a dilapidations claim at lease end: reviewing lease obligations, appointing a surveyor and mitigating loss.",
+    "takeaways": [
+      "Read the lease repair obligations first.",
+      "Record condition at lease start and end.",
+      "Early communication speeds settlement."
+    ],
+    "applyIt": "Offer landlord clients a photographic condition record at tenant move-in and move-out as an FM service."
+  },
+  {
+    "id": "pv-009",
+    "title": "Snagging Inspection in Dubai: Professional Handover",
+    "department": "Property Inspection & Valuation",
+    "topic": "Snagging",
+    "format": "On-the-job",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Nina Strenzel",
+    "publishDate": "2026-10-25",
+    "duration": "3:00",
+    "embedUrl": "https://www.youtube.com/embed/JF5O7NcHxLk",
+    "isNew": true,
+    "summary": "A real pre-handover walkthrough of a new Dubai studio and the snagging report that logged over 40 defects, including hidden moisture, drainage and ventilation checks.",
+    "takeaways": [
+      "Switch on DEWA and AC before inspecting.",
+      "Check hidden items: drainage, moisture, water heating.",
+      "Photograph and log every defect for the developer."
+    ],
+    "applyIt": "Use this as the model for Al Bonian snagging visits and build a Dubai handover checklist in Zoho Creator."
+  },
+  {
+    "id": "pv-010",
+    "title": "Performing a Home Inspection (InterNACHI)",
+    "department": "Property Inspection & Valuation",
+    "topic": "Residential Inspection",
+    "format": "On-the-job",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "InterNACHI (Jeremiah Wheelersburg, CPI)",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/IXsl0b2JZPQ",
+    "isNew": true,
+    "summary": "Follows a certified inspector through a real house inspection under InterNACHI standards, showing how defects are identified and what to do when found.",
+    "takeaways": [
+      "Follow a fixed sequence so nothing is missed.",
+      "Inspect against a published standard of practice.",
+      "Report defects clearly with recommended action."
+    ],
+    "applyIt": "Have new inspectors shadow a senior inspector on three villa inspections using the same room-by-room sequence."
+  },
+  {
+    "id": "pv-011",
+    "title": "Commercial Property Inspection Training",
+    "department": "Property Inspection & Valuation",
+    "topic": "Commercial Inspection",
+    "format": "On-the-job",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "InterNACHI (Dillon Winiecki, CPI)",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/U6fJKaqjBMQ",
+    "isNew": true,
+    "summary": "A training class where a certified commercial inspector teaches how commercial property inspections are carried out in practice.",
+    "takeaways": [
+      "Commercial inspections cover more systems and specialists.",
+      "Agree scope and access with the client first.",
+      "Coordinate MEP, roof and life-safety checks."
+    ],
+    "applyIt": "Create a commercial inspection scope template covering MEP, fire, roof, façade and lifts for building-owner clients."
+  },
+  {
+    "id": "pv-012",
+    "title": "Infrared Cameras and Moisture Meters for Leak Detection",
+    "department": "Property Inspection & Valuation",
+    "topic": "Inspection Tools",
+    "format": "On-the-job",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Ben Gromicko (Peter Hopkins, United Infrared)",
+    "publishDate": "2026-10-25",
+    "duration": "35:41",
+    "embedUrl": "https://www.youtube.com/embed/sP5SkBhFCIs",
+    "isNew": true,
+    "summary": "A practical demonstration of using infrared cameras together with moisture meters to investigate moisture problems and find leaks.",
+    "takeaways": [
+      "Thermal images show patterns, not proof of moisture.",
+      "Confirm suspected moisture with a moisture meter.",
+      "Use both tools together for reliable findings."
+    ],
+    "applyIt": "Equip inspection teams with a thermal camera and moisture meter, and require meter confirmation for every reported leak."
+  },
+  {
+    "id": "pv-013",
+    "title": "Thermal Imaging During a Building Survey",
+    "department": "Property Inspection & Valuation",
+    "topic": "Inspection Tools",
+    "format": "On-the-job",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Domestic Surveys Bristol",
+    "publishDate": "2026-10-25",
+    "duration": "1:32",
+    "embedUrl": "https://www.youtube.com/embed/Zex2VNP-P2Q",
+    "isNew": true,
+    "summary": "Short on-site examples of a surveyor using thermal imaging to reveal moisture and insulation issues in different building types.",
+    "takeaways": [
+      "Thermal imaging reveals hidden moisture and heat loss.",
+      "Results vary with construction type.",
+      "Use it to target where to inspect more closely."
+    ],
+    "applyIt": "Add a thermal-imaging sweep of roofs and wet areas to villa inspections, especially before summer."
   }
 ];
