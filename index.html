@@ -391,7 +391,7 @@
             <button type="button" id="toggle-pass" class="btn btn-ghost btn-sm" aria-label="Show password">Show</button>
           </div>
         </div>
-        <label class="check"><input type="checkbox" id="remember" checked> Keep me signed in on this device</label>
+        <label class="check"><input type="checkbox" id="remember" checked> Remember me (stay signed in and keep my username on this device)</label>
         <div id="login-error" class="error-box hidden" role="alert"></div>
         <button class="btn btn-primary" type="submit" style="padding:12px">Sign in</button>
       </form>
@@ -732,7 +732,8 @@
       removed: "albonian_mgmt_removed_v1",
       saved: "albonian_mgmt_saved_v1",
       done: "albonian_mgmt_done_v1",
-      layout: "albonian_mgmt_layout_v1"
+      layout: "albonian_mgmt_layout_v1",
+      remember: "albonian_mgmt_remember_v1"
     };
 
     // ---------- 2. Safe storage ----------
@@ -855,7 +856,8 @@
       }
       const auth = { name: u.toLowerCase(), role };
       state.sessionAuth = auth;
-      if ($("remember").checked) { state.auth = auth; store.set(KEYS.auth, auth); }
+      if ($("remember").checked) { state.auth = auth; store.set(KEYS.auth, auth); store.set(KEYS.remember, { on: true, user: u }); }
+      else { store.set(KEYS.remember, { on: false, user: "" }); }
       $("login-error").classList.add("hidden");
       $("login-pass").value = "";
       showGate(false);
@@ -863,6 +865,12 @@
       renderAll();
       toast(`Signed in as ${role === "admin" ? "Admin" : "Manager"}`);
     });
+    (function restoreRemember() {
+      const r = store.get(KEYS.remember, null);
+      if (!r) return;
+      $("remember").checked = !!r.on;
+      if (r.on && r.user) $("login-user").value = r.user;
+    })();
     $("toggle-pass").addEventListener("click", () => {
       const f = $("login-pass");
       f.type = f.type === "password" ? "text" : "password";
@@ -873,6 +881,8 @@
       store.remove(KEYS.auth);
       switchView("library");
       showGate(true);
+      const r = store.get(KEYS.remember, null);
+      if (r && r.on && r.user) { $("login-user").value = r.user; $("login-pass").focus(); }
       toast("Signed out");
     });
 
