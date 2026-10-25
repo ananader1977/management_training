@@ -6,7 +6,8 @@
 // unique id and these fields:
 //   department : "Finance" | "Leadership" | "Procurement" | "HR"
 //                | "Quality & HSE" | "Business Development" | "IT"
-//   id prefix  : fin- | lead- | proc- | hr- | qhse- | bd- | it-
+//                | "Facilities Management"
+//   id prefix  : fin- | lead- | proc- | hr- | qhse- | bd- | it- | fm-
 //   level      : "Foundation" | "Practitioner" | "Executive"
 //   source     : "TED Talk" | "Professional Body" | "Training Academy"
 //                | "Industry Expert" | "Regulator"
@@ -997,5 +998,245 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Test restores regularly rather than assuming they work"
     ],
     "applyIt": "Define recovery targets for the CAFM system and Zoho Creator apps and test a restore so work orders can continue if a system fails."
+  },
+  {
+    "id": "fm-001",
+    "title": "What Is SFG20?",
+    "department": "Facilities Management",
+    "topic": "SFG20",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "SFG20",
+    "publishDate": "2026-10-25",
+    "duration": "2:59",
+    "embedUrl": "https://www.youtube.com/embed/KIQdwKkg2V0",
+    "isNew": true,
+    "summary": "Introduces SFG20, the maintenance standard that sets which building maintenance tasks are needed, the skills they require and how often they should be done.",
+    "takeaways": [
+      "SFG20 defines what to maintain, who does it and how often.",
+      "Standard schedules help keep buildings compliant and safe.",
+      "Right-sizing tasks avoids over- and under-maintenance."
+    ],
+    "applyIt": "Compare the PPM schedule of one major contract against SFG20 frequencies and flag any tasks done too often or not at all."
+  },
+  {
+    "id": "fm-002",
+    "title": "The SFG20 Colour Coding System",
+    "department": "Facilities Management",
+    "topic": "SFG20",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "SFG20",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/tA6CsoTc0a4",
+    "isNew": true,
+    "summary": "How SFG20's red, amber and green codes classify maintenance tasks, with red for statutory and critical work, and how to use them to prioritise and prove compliance.",
+    "takeaways": [
+      "Red tasks are statutory or safety-critical: never skip them.",
+      "Amber and green tasks can be planned around budget and use.",
+      "Colour codes make compliance easy to report to clients."
+    ],
+    "applyIt": "Tag every PPM task in the CAFM system with its SFG20 colour and report red-task completion to clients monthly."
+  },
+  {
+    "id": "fm-003",
+    "title": "SFG20: The Engine of Modern Facilities Management",
+    "department": "Facilities Management",
+    "topic": "SFG20",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "SFG20",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/ol3bFkbWuFU",
+    "isNew": true,
+    "summary": "How SFG20 underpins planned preventive maintenance to cut costs, meet legislation and keep buildings safe, and how the Facilities-iQ platform delivers the schedules.",
+    "takeaways": [
+      "A recognised standard strengthens FM tenders and contracts.",
+      "Standardised schedules make pricing and resourcing predictable.",
+      "Compliance evidence protects both client and contractor."
+    ],
+    "applyIt": "Reference SFG20-aligned schedules in the next FM tender to show compliance and justify the PPM price."
+  },
+  {
+    "id": "fm-004",
+    "title": "Planned Preventive Maintenance (PPM) in Facilities Management",
+    "department": "Facilities Management",
+    "topic": "Planned Maintenance",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "My FM Guru",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/_dLeGqvfqL0",
+    "isNew": true,
+    "summary": "How facilities managers plan and carry out preventive maintenance: scheduling, recording and analysing maintenance data, and coordinating with other departments.",
+    "takeaways": [
+      "PPM prevents breakdowns instead of reacting to them.",
+      "Good records turn maintenance history into decisions.",
+      "Coordinate PPM windows with the client's operations."
+    ],
+    "applyIt": "Review last month's PPM completion rate per contract and agree a recovery plan for any site below 95%."
+  },
+  {
+    "id": "fm-005",
+    "title": "What Is Predictive Maintenance? Condition Monitoring Basics",
+    "department": "Facilities Management",
+    "topic": "Predictive Maintenance",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Engineering Presentations",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/pocSio2ExNo",
+    "isNew": true,
+    "summary": "Introduces predictive or condition-based maintenance and condition monitoring, using vibration monitoring as the main example, as part of a CMRP-aligned reliability course.",
+    "takeaways": [
+      "Maintain based on condition, not just the calendar.",
+      "Condition monitoring spots failure before it happens.",
+      "Vibration trends are a key early warning on rotating plant."
+    ],
+    "applyIt": "Choose five critical assets (chillers, pumps, AHUs) and start recording a monthly condition reading for each."
+  },
+  {
+    "id": "fm-006",
+    "title": "Vibration Analysis for Predictive Maintenance",
+    "department": "Facilities Management",
+    "topic": "Predictive Maintenance",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "UpKeep",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/VfO3EvE3asc",
+    "isNew": true,
+    "summary": "How vibration sensors and analysis support predictive maintenance on rotating equipment such as bearings, motors, pumps, fans and compressors, with case studies.",
+    "takeaways": [
+      "Vibration reveals imbalance, misalignment and bearing wear.",
+      "Trend data matters more than a single reading.",
+      "Start with the assets whose failure costs most."
+    ],
+    "applyIt": "Pilot wireless vibration sensors on the chilled-water pumps of one large site and compare failures against last year."
+  },
+  {
+    "id": "fm-007",
+    "title": "RCM vs Preventive vs Predictive Maintenance",
+    "department": "Facilities Management",
+    "topic": "Maintenance Strategy",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Verdantis",
+    "publishDate": "2026-10-25",
+    "duration": "3:29",
+    "embedUrl": "https://www.youtube.com/embed/S8l56GRFEi8",
+    "isNew": true,
+    "summary": "Compares scheduled preventive, condition-based predictive and reliability-centred maintenance on cost, complexity and risk, with a simple framework for choosing between them.",
+    "takeaways": [
+      "Not every asset needs the same strategy.",
+      "RCM decides which strategy fits each asset.",
+      "Match maintenance effort to the risk of failure."
+    ],
+    "applyIt": "Classify each contract's assets as run-to-fail, preventive or predictive based on criticality, and adjust the PPM plan."
+  },
+  {
+    "id": "fm-008",
+    "title": "Preventive vs Reliability-Centred Maintenance",
+    "department": "Facilities Management",
+    "topic": "Maintenance Strategy",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "UpKeep",
+    "publishDate": "2026-10-25",
+    "duration": "5:19",
+    "embedUrl": "https://www.youtube.com/embed/EaXJF89TQqQ",
+    "isNew": true,
+    "summary": "Compares preventive and reliability-centred maintenance: definitions, implementation steps, costs, benefits, drawbacks and the resources each needs.",
+    "takeaways": [
+      "Preventive maintenance is simple but can over-maintain.",
+      "RCM focuses effort on functions that matter most.",
+      "RCM needs data, skills and management commitment."
+    ],
+    "applyIt": "Run an RCM-style review on the chiller plant of your largest contract and present the cost-risk trade-offs to the client."
+  },
+  {
+    "id": "fm-009",
+    "title": "What Is a BMS? Building Management Systems",
+    "department": "Facilities Management",
+    "topic": "Building Systems",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "eFIXX",
+    "publishDate": "2026-10-25",
+    "duration": "6:26",
+    "embedUrl": "https://www.youtube.com/embed/8WWRJbhm5hU",
+    "isNew": true,
+    "summary": "Explains how a building management system monitors and controls temperature, lighting, airflow and energy, and its three levels: field devices, controllers and management software.",
+    "takeaways": [
+      "A BMS has field, automation and management levels.",
+      "BMS data shows how plant is actually running.",
+      "Alarms and trends support faster, smarter response."
+    ],
+    "applyIt": "Agree BMS alarm escalation rules with each client so critical alarms automatically raise a work order."
+  },
+  {
+    "id": "fm-010",
+    "title": "Maintenance Backlog Management",
+    "department": "Facilities Management",
+    "topic": "Operations Management",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "ManWinWin",
+    "publishDate": "2026-10-25",
+    "duration": "8:43",
+    "embedUrl": "https://www.youtube.com/embed/jYnv9SV_H9Q",
+    "isNew": true,
+    "summary": "Treats a growing maintenance backlog as a sign of lost control and shows how to reduce it with KPIs, structured clean-up and better CMMS practice.",
+    "takeaways": [
+      "Backlog shows whether the team is in control.",
+      "Measure backlog in weeks of work, not ticket count.",
+      "Close or cancel outdated work orders regularly."
+    ],
+    "applyIt": "Report open reactive and PPM work orders per contract in weeks of labour at every monthly operations review."
+  },
+  {
+    "id": "fm-011",
+    "title": "Asset Lifecycle Management",
+    "department": "Facilities Management",
+    "topic": "Asset Management",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Limble",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/7cQlAWJuaCA",
+    "isNew": true,
+    "summary": "How tracking equipment usage and performance history guides maintenance decisions across an asset's life, from acquisition to disposal, to lower total cost of ownership.",
+    "takeaways": [
+      "Manage assets from purchase to disposal, not just repair.",
+      "Performance history shows when to repair or replace.",
+      "Lifecycle planning lowers total cost of ownership."
+    ],
+    "applyIt": "Build a 5-year replacement forecast for major plant on key contracts and share it with clients as a value-add."
+  },
+  {
+    "id": "fm-012",
+    "title": "ISO 55000 Explained: Asset Management",
+    "department": "Facilities Management",
+    "topic": "Asset Management",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "UpKeep",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/eFHq7HjU-Ew",
+    "isNew": true,
+    "summary": "Introduces the ISO 55000 asset management standards, the differences between 55000, 55001 and 55002, and how an asset management system and CMMS support compliance.",
+    "takeaways": [
+      "ISO 55000 links asset decisions to business goals.",
+      "55001 sets the requirements for an asset management system.",
+      "A CMMS provides the data the standard relies on."
+    ],
+    "applyIt": "Assess the company's asset register and maintenance data against ISO 55001 as a step toward stronger government tenders."
   }
 ];

@@ -1,6 +1,6 @@
 # Al Bonian FM — Management Academy
 
-Daily video training portal for Al Bonian FM management: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development and IT**.
+Daily video training portal for Al Bonian FM management: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT and Facilities Management**.
 
 Live site: https://ananader1977.github.io/management_training/
 
