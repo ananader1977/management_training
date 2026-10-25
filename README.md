@@ -2,7 +2,7 @@
 
 Daily video training portal for Al Bonian FM management: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management and Property Inspection & Valuation**.
 
-Live site: https://ananader1977.github.io/management_training/
+Live site: https://ananader1977.github.io/personal_training/
 
 ## Sign in
 
