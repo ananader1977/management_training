@@ -857,5 +857,145 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Culture and structure decide whether AI scales."
     ],
     "applyIt": "Pick one repetitive back-office process (e.g. report preparation or ticket triage) and pilot an AI tool on it for one month with clear success measures."
+  },
+  {
+    "id": "fin-007",
+    "title": "Margins Explained: EBITDA, EBIT and What They Really Tell You",
+    "department": "Finance",
+    "topic": "Financial KPIs",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "CNBC-TV18",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/1a2QxbHhTzk",
+    "isNew": true,
+    "summary": "Walks through the layers of profit margin, from gross margin to EBITDA, EBIT and net profit, and what each reveals about pricing power, cost control and efficiency.",
+    "takeaways": [
+      "Gross margin shows how well pricing covers direct costs",
+      "EBITDA and EBIT separate operating performance from financing and accounting effects",
+      "Track margin trends over time, not just one-off figures"
+    ],
+    "applyIt": "Report gross margin and EBITDA per maintenance contract monthly so managers can spot contracts where labour or subcontractor costs are eroding profit."
+  },
+  {
+    "id": "lead-008",
+    "title": "Kotter's 8 Steps for Leading Change",
+    "department": "Leadership",
+    "topic": "Change Management",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Kotter",
+    "publishDate": "2026-10-25",
+    "duration": "4:21",
+    "embedUrl": "https://www.youtube.com/embed/SGYmPMcgDPg",
+    "isNew": true,
+    "summary": "Kotter's head of research explains John Kotter's eight-step model for leading organisational change and how it has evolved into a more agile set of accelerators.",
+    "takeaways": [
+      "Create a sense of urgency before launching change",
+      "Build a guiding coalition to generate momentum",
+      "Anchor new ways of working in the culture so they last"
+    ],
+    "applyIt": "Use the eight steps to plan a company-wide rollout such as a new CAFM workflow, starting with a clear case for urgency and a coalition of site and office leaders."
+  },
+  {
+    "id": "proc-006",
+    "title": "Request for Quotation (RFQ): Everything Procurement Teams Need to Know",
+    "department": "Procurement",
+    "topic": "Tendering & RFQs",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "PROKURIA",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/czc-w9ztcOQ",
+    "isNew": true,
+    "summary": "Explains what an RFQ is, how it differs from an RFP, the step-by-step process from preparation to evaluation, and common pitfalls to avoid.",
+    "takeaways": [
+      "Use an RFQ when requirements are clear and price is the main differentiator",
+      "Send identical, well-defined specifications to every supplier",
+      "Compare quotes on a like-for-like basis and document the decision"
+    ],
+    "applyIt": "Standardise RFQ templates for spare parts and subcontracted MEP works so every supplier quotes against the same scope and evaluation is transparent."
+  },
+  {
+    "id": "hr-007",
+    "title": "How to Create an Employee Onboarding Process that New Hires Don't Hate",
+    "department": "HR",
+    "topic": "Onboarding",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Jennifer Mitchell Earley",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/CVFcJKCFHb0",
+    "isNew": true,
+    "summary": "An HR consultant shows how to design an onboarding programme that gives new hires an engaging, well-organised start and supports retention.",
+    "takeaways": [
+      "Plan onboarding before day one, not on arrival",
+      "Make the first weeks welcoming and personal, not just paperwork",
+      "Treat onboarding as a retention tool with clear check-ins"
+    ],
+    "applyIt": "Build a structured first-30-days plan for new technicians and supervisors, covering site induction, safety, CAFM access and a named buddy."
+  },
+  {
+    "id": "qhse-007",
+    "title": "What Is ISO 45001 and How Does It Help Businesses?",
+    "department": "Quality & HSE",
+    "topic": "ISO 45001",
+    "level": "Executive",
+    "source": "Training Academy",
+    "channel": "Citation ISO Certification",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/jzZuKptPUMo",
+    "isNew": true,
+    "summary": "An explainer on the aims of ISO 45001:2018 and the business benefits of adopting an occupational health and safety management system.",
+    "takeaways": [
+      "ISO 45001 gives a recognised framework for managing OH&S risk",
+      "Top management leadership and worker participation are central to the standard",
+      "Certification can strengthen tenders and client confidence"
+    ],
+    "applyIt": "Use ISO 45001 as the backbone of the HSE system so leadership commitments, risk controls and site performance can be evidenced to government and property clients."
+  },
+  {
+    "id": "bd-008",
+    "title": "Sales Pipeline Management",
+    "department": "Business Development",
+    "topic": "CRM Pipelines",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Zoho CRM",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/95inJDS5u0s",
+    "isNew": true,
+    "summary": "Defines a sales pipeline as the sequence of stages a deal moves through from first lead assessment to close, and explains how to set up and track those stages.",
+    "takeaways": [
+      "Define clear stages that match how your deals actually progress",
+      "Track how many deals sit at each stage and how long they stay",
+      "Use pipeline data to forecast revenue and focus effort"
+    ],
+    "applyIt": "Map Al Bonian FM tender and enquiry stages into a Zoho pipeline so BD can see every opportunity, from site visit to award, in one view."
+  },
+  {
+    "id": "it-006",
+    "title": "Disaster Recovery vs. Backup: What is the Difference?",
+    "department": "IT",
+    "topic": "Backup & Business Continuity",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-10-25",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/07EHsPuKXc0",
+    "isNew": true,
+    "summary": "An IBM Cloud specialist compares backup and disaster recovery, explaining how they differ and how each supports a business continuity plan.",
+    "takeaways": [
+      "Backups protect data; disaster recovery restores whole services",
+      "Set recovery time and recovery point objectives for key systems",
+      "Test restores regularly rather than assuming they work"
+    ],
+    "applyIt": "Define recovery targets for the CAFM system and Zoho Creator apps and test a restore so work orders can continue if a system fails."
   }
 ];
