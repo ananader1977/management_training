@@ -1512,5 +1512,186 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Use it to target where to inspect more closely."
     ],
     "applyIt": "Add a thermal-imaging sweep of roofs and wet areas to villa inspections, especially before summer."
+  },
+  {
+    "id": "fin-008",
+    "title": "Cost-Based vs Value-Based Pricing",
+    "department": "Finance",
+    "topic": "Pricing",
+    "level": "Executive",
+    "source": "Training Academy",
+    "channel": "Mastering Up",
+    "publishDate": "2026-10-26",
+    "duration": "13:49",
+    "embedUrl": "https://www.youtube.com/embed/loszBKRYylY",
+    "isNew": true,
+    "summary": "Compares setting prices from your own costs with setting them from the value customers perceive, using cross-industry examples and guidance on choosing the right model.",
+    "takeaways": [
+      "Cost-plus pricing protects margin but ignores what the client is willing to pay",
+      "Value-based pricing needs a clear view of the outcomes the client actually values",
+      "Pick the pricing model that fits the business model and competitive position"
+    ],
+    "applyIt": "When pricing MEP maintenance and snagging bids, start from the full cost build-up, then test the price against the value delivered to the client (uptime, compliance, handover speed) before submitting."
+  },
+  {
+    "id": "lead-009",
+    "title": "Why Long Meetings Drain Productivity and How to Fix Them",
+    "department": "Leadership",
+    "topic": "Running Meetings",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "CBS Mornings (Steven Rogelberg)",
+    "publishDate": "2026-10-26",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/D-x8iJieHjI",
+    "isNew": true,
+    "summary": "Meetings researcher Steven Rogelberg discusses research on the \"meeting hangover\" effect of poor meetings and practical ways managers can make meetings shorter and more useful.",
+    "takeaways": [
+      "Badly run meetings cost productivity long after they end",
+      "Keep meetings short, with a clear purpose and only the people who need to be there",
+      "Treat running meetings as a leadership skill you can improve"
+    ],
+    "applyIt": "Keep daily site coordination meetings to a fixed short slot with a set agenda (safety, priority work orders, blockers) and send actions through Zoho Creator instead of extending the meeting."
+  },
+  {
+    "id": "proc-007",
+    "title": "What Is Category Management and Why It Matters",
+    "department": "Procurement",
+    "topic": "Category Management",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Procurement Insights with Poonam",
+    "publishDate": "2026-10-26",
+    "duration": "4:46",
+    "embedUrl": "https://www.youtube.com/embed/0WyKUbZgx1Q",
+    "isNew": true,
+    "summary": "Explains how category management moves procurement from order-by-order buying to managing each spend area like a business unit through a cycle of analysis, strategy, execution and review.",
+    "takeaways": [
+      "Group spend into categories instead of buying order by order",
+      "Run each category through analysis, strategy, execution and feedback",
+      "Focus effort on categories with high spend or high supply risk"
+    ],
+    "applyIt": "Set up categories such as HVAC spares, electrical consumables and specialist subcontractors, and give each one an owner who agrees annual frame agreements instead of ad-hoc site purchases."
+  },
+  {
+    "id": "hr-008",
+    "title": "Strategic Workforce Planning 101",
+    "department": "HR",
+    "topic": "Workforce Planning",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Random Walks In HR",
+    "publishDate": "2026-10-26",
+    "duration": "9:36",
+    "embedUrl": "https://www.youtube.com/embed/rNQ1V4DRYIw",
+    "isNew": true,
+    "summary": "Introduces the core building blocks of strategic workforce planning, including internal supply, demand forecasting, scenario planning and closing skills gaps.",
+    "takeaways": [
+      "Compare the workforce you have with the workforce the strategy needs",
+      "Use scenarios to plan for different growth or contract outcomes",
+      "Close skills gaps through a mix of hiring, training and redeployment"
+    ],
+    "applyIt": "Before bidding on large new FM contracts, model technician and supervisor headcount by trade under win/lose scenarios so recruitment and training can start ahead of mobilisation."
+  },
+  {
+    "id": "qhse-008",
+    "title": "What Is CAPA? Corrective vs Preventive Action Explained",
+    "department": "Quality & HSE",
+    "topic": "CAPA",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "QT9 Software",
+    "publishDate": "2026-10-26",
+    "duration": "4:20",
+    "embedUrl": "https://www.youtube.com/embed/Bi90TJ8lf0c",
+    "isNew": true,
+    "summary": "Walks through the CAPA process from identifying a problem to verifying effectiveness, and explains how a quick correction differs from a true corrective action under standards like ISO 9001.",
+    "takeaways": [
+      "A correction fixes the symptom; a corrective action removes the cause",
+      "Preventive action addresses risks before they become problems",
+      "Close every CAPA only after checking that it actually worked"
+    ],
+    "applyIt": "For repeat client complaints or audit findings, log a CAPA in the CAFM/Zoho system with root cause, owner and an effectiveness check date rather than closing it once the immediate fix is done."
+  },
+  {
+    "id": "bd-009",
+    "title": "How to Present a Business Proposal to a Client",
+    "department": "Business Development",
+    "topic": "Presenting to Clients",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Angelique Rewers",
+    "publishDate": "2026-10-26",
+    "duration": "16:53",
+    "embedUrl": "https://www.youtube.com/embed/MesVZNLoSQ0",
+    "isNew": true,
+    "summary": "Sets out a five-step approach to presenting a proposal to a client, covering preparation, slides, logistics and how to open and close the meeting with confidence.",
+    "takeaways": [
+      "Prepare the room, materials and attendees before the meeting",
+      "Open by confirming the client's goals before showing your solution",
+      "Close with clear, agreed next steps"
+    ],
+    "applyIt": "When presenting FM or snagging proposals to developers and government clients, open by restating their handover and compliance goals, then show how the scope and SLAs deliver them."
+  },
+  {
+    "id": "it-007",
+    "title": "Leading Digital Transformation",
+    "department": "IT",
+    "topic": "Digital Transformation",
+    "level": "Executive",
+    "source": "Training Academy",
+    "channel": "MIT Sloan School of Management (George Westerman)",
+    "publishDate": "2026-10-26",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/3OTu5KB7qNU",
+    "isNew": true,
+    "summary": "MIT researcher George Westerman explains why leadership, not technology alone, determines whether a company's digital transformation succeeds.",
+    "takeaways": [
+      "Digital transformation is a leadership challenge, not just an IT project",
+      "Senior leaders must set a clear digital vision and drive it",
+      "Technology delivers value only when processes and people change with it"
+    ],
+    "applyIt": "Treat the CAFM and Zoho Creator roll-out as a management-led change, with senior owners for each process so site teams actually change how they log and close work."
+  },
+  {
+    "id": "fm-013",
+    "title": "Top 3 Maintenance KPIs Explained: MTBF, MTTF and MTTR",
+    "department": "Facilities Management",
+    "topic": "Maintenance KPIs",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "eMaint",
+    "publishDate": "2026-10-26",
+    "duration": "3:24",
+    "embedUrl": "https://www.youtube.com/embed/D64pb8-RDsU",
+    "isNew": true,
+    "summary": "Defines three core reliability metrics (MTBF, MTTF and MTTR) and shows how tracking them supports better preventive maintenance, spares planning and repair-or-replace decisions.",
+    "takeaways": [
+      "MTBF shows how long a repairable asset runs between failures",
+      "MTTR shows how quickly your team restores an asset",
+      "Use the trends to adjust PPM frequencies and spare-parts stock"
+    ],
+    "applyIt": "Report MTBF and MTTR for critical assets such as chillers, pumps and AHUs from CAFM work-order data each month and use them in client performance reviews."
+  },
+  {
+    "id": "pv-014",
+    "title": "Using Thermal Imaging to Find Plumbing Leaks",
+    "department": "Property Inspection & Valuation",
+    "topic": "Thermal Imaging",
+    "level": "Practitioner",
+    "format": "On-the-job",
+    "source": "Industry Expert",
+    "channel": "Hammer Home Inspections",
+    "publishDate": "2026-10-26",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/SyEWK8be3zk",
+    "isNew": true,
+    "summary": "A working home inspector shows how he uses a thermal camera during real inspections to locate hidden plumbing leaks and spot moisture intrusion and other defects.",
+    "takeaways": [
+      "Thermal images reveal temperature patterns that point to hidden moisture",
+      "Confirm suspected leaks with a moisture meter before reporting them",
+      "Include annotated thermal images in the inspection report as evidence"
+    ],
+    "applyIt": "On villa and apartment snagging inspections, scan wet areas and ceilings below bathrooms with a thermal camera and confirm any anomalies with a moisture meter before adding them to the snag report."
   }
 ];
