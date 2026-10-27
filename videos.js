@@ -1693,5 +1693,186 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Include annotated thermal images in the inspection report as evidence"
     ],
     "applyIt": "On villa and apartment snagging inspections, scan wet areas and ceilings below bathrooms with a thermal camera and confirm any anomalies with a moisture meter before adding them to the snag report."
+  },
+  {
+    "id": "fin-009",
+    "title": "The UAE Tax Landscape: VAT, Corporate Tax and More",
+    "department": "Finance",
+    "topic": "UAE Tax Basics",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Business Boutique FZCO",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/KqT2Sm4ca6c",
+    "isNew": true,
+    "summary": "An overview of how the UAE tax system works today, covering VAT, the newer corporate tax regime, customs duties and local fees, and what recent changes mean for businesses.",
+    "takeaways": [
+      "VAT and corporate tax are now both core compliance obligations for UAE businesses",
+      "Know which taxes and fees apply to your company before pricing or quoting",
+      "Recent rule changes mean tax assumptions should be reviewed regularly"
+    ],
+    "applyIt": "When preparing MEP maintenance quotations and contract budgets, managers should confirm VAT treatment and the corporate tax impact with finance so margins are calculated on the right basis."
+  },
+  {
+    "id": "lead-010",
+    "title": "The GROW Model for Coaching: Origins and Application",
+    "department": "Leadership",
+    "topic": "Coaching",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Performance Consultants International (Sir John Whitmore)",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/f2M1GuhilR0",
+    "isNew": true,
+    "summary": "Sir John Whitmore, co-creator of the GROW model, explains where the framework came from and how its four steps (Goal, Reality, Options, Will) structure coaching conversations that improve performance.",
+    "takeaways": [
+      "Start every coaching conversation by agreeing a clear goal",
+      "Ask questions to explore the current reality before suggesting solutions",
+      "Finish with a committed next step the person owns"
+    ],
+    "applyIt": "Supervisors can use GROW in short one-to-ones with technicians to solve recurring site problems, such as repeat call-outs, instead of simply giving instructions."
+  },
+  {
+    "id": "proc-008",
+    "title": "The Kraljic Matrix Explained with Example",
+    "department": "Procurement",
+    "topic": "Sourcing Strategy",
+    "level": "Executive",
+    "source": "Training Academy",
+    "channel": "EPM",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/67gQEUtbjSE",
+    "isNew": true,
+    "summary": "Explains the Kraljic Matrix for segmenting purchases by profit impact and supply risk, works through a real company example, and discusses the strengths and limits of the model.",
+    "takeaways": [
+      "Classify spend into strategic, leverage, bottleneck and non-critical items",
+      "Match the sourcing approach to each quadrant rather than treating all suppliers alike",
+      "Revisit the matrix as supply risk and business priorities change"
+    ],
+    "applyIt": "Map Al Bonian FM spend (chiller spares, specialist subcontractors, consumables, manpower supply) onto the Kraljic quadrants to decide where to build partnerships and where to tender aggressively."
+  },
+  {
+    "id": "hr-009",
+    "title": "What Is Employee Relations?",
+    "department": "HR",
+    "topic": "Employee Relations",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "GreggU",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/qqMCcWXfSSI",
+    "isNew": true,
+    "summary": "Introduces employee relations as the way an organisation manages its relationship with staff, including engagement, resolving conflict, workplace investigations and fair, consistent discipline.",
+    "takeaways": [
+      "Good employee relations rests on treating everyone fairly and consistently",
+      "Deal with conflict and complaints early, before they escalate",
+      "Document investigations and disciplinary steps clearly"
+    ],
+    "applyIt": "Site managers should log grievances and disciplinary actions for technicians in a consistent way in Zoho Creator so HR can apply the same standards across every site."
+  },
+  {
+    "id": "qhse-009",
+    "title": "Incident Investigation: Identifying Root Causes and Implementing Corrective Actions",
+    "department": "Quality & HSE",
+    "topic": "Incident Investigation",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "Atlantic Training Online Safety Training",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/faVpisJCX9w",
+    "isNew": true,
+    "summary": "A safety training course on investigating near-misses, property damage and injuries without blame, finding root causes, setting corrective actions and communicating lessons learned.",
+    "takeaways": [
+      "Investigate near-misses as seriously as injuries",
+      "Focus on root causes and system failures, not on blaming individuals",
+      "Track corrective actions to closure and share the lessons"
+    ],
+    "applyIt": "After any site incident or near-miss, such as a fall from a ladder or an electrical flash, the HSE team should run a blame-free investigation and record corrective actions in the CAFM system until closed."
+  },
+  {
+    "id": "bd-010",
+    "title": "Customer Retention Strategy: Making Loyalty the New Growth Engine",
+    "department": "Business Development",
+    "topic": "Client Retention",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "ContentStrategies (David T. Roberts, SugarCRM)",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/jrW6bXixH3I",
+    "isNew": true,
+    "summary": "SugarCRM CEO David T. Roberts makes the case that customer loyalty drives B2B growth and explains how curiosity, process and data, including NPS feedback, turn customer focus into retention.",
+    "takeaways": [
+      "Retaining existing B2B clients is a growth strategy, not just a service task",
+      "Turn client feedback scores into specific follow-up actions",
+      "Use CRM data to give account teams context about each client"
+    ],
+    "applyIt": "Review client satisfaction feedback for each FM contract quarterly and assign named actions to account managers well before renewal dates."
+  },
+  {
+    "id": "it-008",
+    "title": "How to Spot a Phishing Email",
+    "department": "IT",
+    "topic": "Phishing Awareness",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Keeper Security",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/iHetr8xTWIU",
+    "isNew": true,
+    "summary": "A quick awareness video showing the common warning signs of phishing emails, such as urgency and pressure, suspicious sender addresses and unexpected links, plus simple steps to stay protected.",
+    "takeaways": [
+      "Be suspicious of urgent requests to pay, log in or share details",
+      "Check the real sender address and hover over links before clicking",
+      "Report suspected phishing instead of deleting it quietly"
+    ],
+    "applyIt": "Share this with office and site staff who handle supplier invoices and client emails, and require that any request to change bank details is confirmed by phone."
+  },
+  {
+    "id": "fm-014",
+    "title": "Best Practices Webinar: Maintenance Planning and Scheduling",
+    "department": "Facilities Management",
+    "topic": "Planning & Scheduling",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "eMaint (Roy Rothwell)",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/hT_UHv2Jyvk",
+    "isNew": true,
+    "summary": "An eMaint webinar on why maintenance should be planned and scheduled, covering core planning principles, the tools and prerequisites needed, and practical steps to cut backlog and overtime.",
+    "takeaways": [
+      "Plan jobs fully (parts, tools, permits) before scheduling them",
+      "Schedule against available labour hours to protect productivity",
+      "Measure backlog and schedule compliance to improve over time"
+    ],
+    "applyIt": "Planners should prepare weekly PPM and corrective work packs in the CAFM system, with spares and permits ready, before allocating technicians across sites."
+  },
+  {
+    "id": "pv-015",
+    "title": "The Residual Land Value Method",
+    "department": "Property Inspection & Valuation",
+    "topic": "Residual Valuation",
+    "level": "Executive",
+    "format": "Process",
+    "source": "Industry Expert",
+    "channel": "Chad Griffiths",
+    "publishDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/J9ldMWeQ3GA",
+    "isNew": true,
+    "summary": "Explains how residual land value is found by taking the completed project value and deducting construction, financing and developer profit, and why the result is highly sensitive to key assumptions.",
+    "takeaways": [
+      "Residual value equals completed value minus all development costs and required profit",
+      "Small changes in rents, yields or build costs swing the land value sharply",
+      "Always run sensitivity tests before relying on the figure"
+    ],
+    "applyIt": "When advising developer clients in Dubai on land or redevelopment sites, present residual valuations with clear sensitivity ranges for sale prices, yields and construction costs."
   }
 ];
