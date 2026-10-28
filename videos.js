@@ -1874,5 +1874,186 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Always run sensitivity tests before relying on the figure"
     ],
     "applyIt": "When advising developer clients in Dubai on land or redevelopment sites, present residual valuations with clear sensitivity ranges for sale prices, yields and construction costs."
+  },
+  {
+    "id": "fin-010",
+    "title": "What Is Variance Analysis? Budget vs Actual Explained",
+    "department": "Finance",
+    "topic": "Cost Control",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Ryan O'Connell, CFA, FRM",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/4Qd97lqDdb0",
+    "isNew": true,
+    "summary": "Shows how to compare actual results with the budget and break the profit gap into volume, price and cost effects using a flexible budget and a profit bridge.",
+    "takeaways": [
+      "Use a flexible budget so you compare like with like at actual activity levels",
+      "Split each gap into volume, price and cost effects before reacting",
+      "A variance tells you where to look — confirm the root cause with evidence"
+    ],
+    "applyIt": "Run a monthly budget-vs-actual review for each MEP maintenance contract and separate labour, materials and subcontractor cost variances before deciding on corrective action."
+  },
+  {
+    "id": "lead-011",
+    "title": "How Leaders Make Good Decisions in a Crisis — Gary Klein",
+    "department": "Leadership",
+    "topic": "Decision-Making",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Lootok (Gary Klein)",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/DzErY5ynXXg",
+    "isNew": true,
+    "summary": "Psychologist Gary Klein explains how experienced decision-makers such as firefighters act fast under pressure by recognising patterns from past experience, and what leaders can learn from it.",
+    "takeaways": [
+      "Under time pressure experts match cues to past patterns rather than compare options",
+      "Build experience deliberately so your team has patterns to draw on",
+      "Mentally simulate a chosen action quickly to spot what could go wrong"
+    ],
+    "applyIt": "Use short scenario drills and post-incident debriefs with site supervisors so they build the experience to make fast, sound calls during critical breakdowns at client sites."
+  },
+  {
+    "id": "proc-009",
+    "title": "Reorder Point and Safety Stock in Inventory Management",
+    "department": "Procurement",
+    "topic": "Inventory & Stores",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Farhat Lectures",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/LLKG2bs-HlA",
+    "isNew": true,
+    "summary": "Explains what reorder points and safety stock are, how to calculate each, and how combining them prevents stock-outs without tying up cash in excess inventory.",
+    "takeaways": [
+      "Reorder point = demand during lead time plus safety stock",
+      "Safety stock buffers against demand spikes and late deliveries",
+      "Too much stock ties up cash; too little stops the work"
+    ],
+    "applyIt": "Set reorder points and safety stock in the CAFM/stores system for critical MEP spares such as filters, belts and pump seals so site teams are never waiting on parts."
+  },
+  {
+    "id": "hr-010",
+    "title": "Introduction to Total Rewards and Compensation",
+    "department": "HR",
+    "topic": "Compensation",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "GreggU",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/JmAvA_8Ftvc",
+    "isNew": true,
+    "summary": "Introduces the parts of a compensation system — base pay, incentive pay and benefits — and why fair, competitive pay matters for attracting and keeping staff while controlling a major cost.",
+    "takeaways": [
+      "Total rewards combine base pay, incentives and benefits",
+      "Pay fairness strongly drives job satisfaction and retention",
+      "Compensation is a large cost, so monitor it against the market"
+    ],
+    "applyIt": "Review technician and supervisor pay bands against the Dubai FM market and link incentives to measurable outcomes such as PPM compliance and first-time fix."
+  },
+  {
+    "id": "qhse-010",
+    "title": "Five Lean Transformation Tips for Leaders",
+    "department": "Quality & HSE",
+    "topic": "Continuous Improvement",
+    "level": "Executive",
+    "source": "Training Academy",
+    "channel": "Gemba Academy",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/0nXY_g4TXZg",
+    "isNew": true,
+    "summary": "Gives leaders five practical tips for a lean transformation, from a blame-free culture and teaching people to solve problems to small PDCA improvements and daily stand-ups.",
+    "takeaways": [
+      "Model respect and build a blame-free environment",
+      "Teach teams to spot waste and solve their own problems",
+      "Make small, frequent PDCA improvements linked to goals through daily stand-ups"
+    ],
+    "applyIt": "Introduce short daily stand-ups on major sites where teams flag waste and safety issues, then track small improvements through the CAPA log in Zoho Creator."
+  },
+  {
+    "id": "bd-011",
+    "title": "Why Your B2B Pricing Strategy Is Hurting Your Margins",
+    "department": "Business Development",
+    "topic": "Pricing Strategy",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "ValueSellingAssoc",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/adtX8ifRdWs",
+    "isNew": true,
+    "summary": "A pricing executive discusses why B2B firms rely on reactive discounts and flat annual increases, and how a value-based, data-driven pricing approach protects margin.",
+    "takeaways": [
+      "Reactive discounting and blanket increases erode margin",
+      "Price on the value delivered to each customer segment",
+      "Pilot pricing changes in one market before rolling out widely"
+    ],
+    "applyIt": "When pricing FM tenders and renewals, build prices from the value delivered (uptime, compliance, response times) rather than discounting to match competitors."
+  },
+  {
+    "id": "it-009",
+    "title": "Power BI: Building a Basic KPI Dashboard with Filters",
+    "department": "IT",
+    "topic": "Data & Dashboards",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Abhishek Agarrwal",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/s_BzbDSVjxI",
+    "isNew": true,
+    "summary": "A hands-on Power BI walkthrough that builds a KPI dashboard with KPI cards, line and bar charts, slicers, and bookmarks with buttons to switch views.",
+    "takeaways": [
+      "Start with a few clear KPI cards before adding charts",
+      "Use slicers so managers can filter by period or category",
+      "Bookmarks and buttons let users switch between saved views"
+    ],
+    "applyIt": "Build a Power BI dashboard on CAFM and Zoho Creator data showing PPM compliance, open work orders and SLA performance per contract, filterable by site."
+  },
+  {
+    "id": "fm-015",
+    "title": "Life Cycle Costing (LCC) with the International Construction Measurement Standard (ICMS)",
+    "department": "Facilities Management",
+    "topic": "Lifecycle Costing",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Dermot Kehily",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/4tqsN9m7DrI",
+    "isNew": true,
+    "summary": "Works through an example of applying life cycle costing within the ICMS framework, showing how construction, operation and maintenance costs can be structured and compared over an asset’s life.",
+    "takeaways": [
+      "Judge assets on whole-life cost, not purchase price alone",
+      "A common standard (ICMS) makes cost comparisons consistent",
+      "Use LCC to support capex replacement and refurbishment decisions"
+    ],
+    "applyIt": "Use life cycle costing when advising clients on chiller or AHU replacement versus repair, presenting whole-life cost comparisons in capex planning reports."
+  },
+  {
+    "id": "pv-016",
+    "title": "Surveying Secrets: Master Your Moisture Meter",
+    "department": "Property Inspection & Valuation",
+    "topic": "Damp Investigation",
+    "level": "Foundation",
+    "format": "On-the-job",
+    "source": "Industry Expert",
+    "channel": "Residential Surveyor Academy (Geoff Hunt)",
+    "publishDate": "2026-10-28",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/ggMuKVknsPw",
+    "isNew": true,
+    "summary": "Surveyor Geoff Hunt demonstrates how damp meters work, how to read them properly and what they cannot reliably tell you during a property inspection.",
+    "takeaways": [
+      "Moisture meters give relative readings, not absolute moisture content",
+      "Readings can be misleading on salts, foil or dense materials",
+      "Confirm suspected damp with other evidence before reporting"
+    ],
+    "applyIt": "Train snagging and inspection staff to use moisture meters correctly on bathroom walls, ceilings below wet areas and around AC drains, and to back up readings with photos and thermal images in reports."
   }
 ];
