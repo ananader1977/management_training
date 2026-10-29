@@ -2055,5 +2055,186 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Confirm suspected damp with other evidence before reporting"
     ],
     "applyIt": "Train snagging and inspection staff to use moisture meters correctly on bathroom walls, ceilings below wet areas and around AC drains, and to back up readings with photos and thermal images in reports."
+  },
+  {
+    "id": "fin-011",
+    "title": "What is NPV? Net Present Value Explained",
+    "department": "Finance",
+    "topic": "Investment Appraisal",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Ryan O'Connell, CFA, FRM",
+    "publishDate": "2026-10-29",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/NJ2ajp9Nu4o",
+    "isNew": true,
+    "summary": "A CFA charterholder explains how net present value discounts future cash flows to today and uses a worked example to show how to judge whether an investment creates value.",
+    "takeaways": [
+      "Money received later is worth less than money today, so discount future cash flows",
+      "A positive NPV at the right discount rate means the investment adds value",
+      "NPV is only as good as the cash-flow and discount-rate assumptions behind it"
+    ],
+    "applyIt": "Use NPV when deciding on capex such as new CAFM modules, tools or vehicles, or when comparing multi-year MEP contract bids, and stress-test the cash-flow assumptions before approval."
+  },
+  {
+    "id": "lead-012",
+    "title": "Daniel Goleman Introduces Emotional Intelligence",
+    "department": "Leadership",
+    "topic": "Emotional Intelligence",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Big Think (Daniel Goleman)",
+    "publishDate": "2026-10-29",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Y7m9eNoB3NU",
+    "isNew": true,
+    "summary": "Psychologist Daniel Goleman outlines the core abilities that make up emotional intelligence and why they matter for how people work and lead.",
+    "takeaways": [
+      "Emotional intelligence rests on self-awareness, self-management, empathy and social skill",
+      "Managing your own reactions under pressure is a learnable skill",
+      "Empathy helps you read your team and respond to what they need"
+    ],
+    "applyIt": "Supervisors handling tense client complaints or overstretched site teams can pause, name their own reaction and listen first before deciding how to respond."
+  },
+  {
+    "id": "proc-010",
+    "title": "7 KPIs for Effective Supplier Relationship Management",
+    "department": "Procurement",
+    "topic": "Supplier Evaluation",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "Procurement Tactics",
+    "publishDate": "2026-10-29",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/8ppXU0hZ3xI",
+    "isNew": true,
+    "summary": "Procurement Tactics walks through seven practical KPIs, from lead time and defect rate to on-time delivery and procurement ROI, for measuring and improving supplier performance.",
+    "takeaways": [
+      "Track lead time, on-time delivery, defect rate and compliance for each key supplier",
+      "Agree the KPIs with suppliers up front so expectations are clear",
+      "Link supplier metrics to goals like cost savings and risk reduction"
+    ],
+    "applyIt": "Build a simple supplier scorecard in Zoho Creator for spare-parts suppliers and MEP subcontractors, reviewing on-time delivery and defects quarterly before renewing agreements."
+  },
+  {
+    "id": "hr-011",
+    "title": "HR Business Partner (HRBP) Model Explained - Strategic HR",
+    "department": "HR",
+    "topic": "HR Strategy",
+    "level": "Executive",
+    "source": "Training Academy",
+    "channel": "CodeLucky",
+    "publishDate": "2026-10-29",
+    "duration": "4:54",
+    "embedUrl": "https://www.youtube.com/embed/8EdhaeDUddA",
+    "isNew": true,
+    "summary": "The video explains Dave Ulrich's HR business partner model and how HR moves from personnel administration to a strategic role supporting business goals.",
+    "takeaways": [
+      "Ulrich describes four HR roles: strategic partner, change agent, employee champion and administrative expert",
+      "An HR business partner works alongside line leaders on business priorities",
+      "Strategic HR needs business, data and influencing skills, not just policy knowledge"
+    ],
+    "applyIt": "Assign HR to sit in monthly operations reviews so workforce, training and retention plans are tied directly to contract mobilisations and client SLAs."
+  },
+  {
+    "id": "qhse-011",
+    "title": "Mastering Permit to Work: Your Complete Introduction",
+    "department": "Quality & HSE",
+    "topic": "Permit to Work",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Will On Safety",
+    "publishDate": "2026-10-29",
+    "duration": "24:20",
+    "embedUrl": "https://www.youtube.com/embed/qiXdQ2M82iw",
+    "isNew": true,
+    "summary": "A safety practitioner introduces permit-to-work systems, when they are needed and how to run them properly for high-risk tasks such as hot work, confined spaces and electrical isolation.",
+    "takeaways": [
+      "Use a permit to work for high-risk, non-routine jobs such as hot work, confined spaces and isolations",
+      "A permit is only effective if hazards, controls and isolations are checked on site",
+      "Permits must be formally handed back and closed before equipment returns to service"
+    ],
+    "applyIt": "Make sure every hot work, electrical isolation and confined-space job on client sites, including subcontractor work, runs on a formal permit logged in the CAFM system and closed out on completion."
+  },
+  {
+    "id": "bd-012",
+    "title": "What is Consultative Selling?",
+    "department": "Business Development",
+    "topic": "Consultative Selling",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Business Skills (Lawrence M. Miller)",
+    "publishDate": "2026-10-29",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/uZ2wL8PxEP4",
+    "isNew": true,
+    "summary": "Management consultant Lawrence M. Miller explains consultative selling as a trust-based approach in which the seller helps the client solve their problem rather than pushing a product.",
+    "takeaways": [
+      "Start with the client's problems and goals, not your service list",
+      "Ask questions and listen to build trust before proposing a solution",
+      "Position yourself as a partner in solving the problem"
+    ],
+    "applyIt": "In meetings with developers and property owners, ask about their asset issues, complaints and budget pressures before proposing a tailored maintenance or snagging package."
+  },
+  {
+    "id": "it-010",
+    "title": "What is IT Governance?",
+    "department": "IT",
+    "topic": "IT Governance & Risk",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Vaseem Nasiruddeen Mohamed",
+    "publishDate": "2026-10-29",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/zpZs06f_dak",
+    "isNew": true,
+    "summary": "The video introduces IT governance and the COBIT framework, then outlines steps to tailor a governance system, find gaps and build an improvement roadmap.",
+    "takeaways": [
+      "IT governance aligns IT objectives, policies and processes with business goals",
+      "COBIT provides a structured set of governance and management processes",
+      "Assess gaps, build a roadmap and keep measuring maturity over time"
+    ],
+    "applyIt": "Set a simple governance routine for Zoho Creator apps, the CAFM system and Microsoft 365 that covers ownership, access approvals, change control and a yearly risk review."
+  },
+  {
+    "id": "fm-016",
+    "title": "Legionnaires' Disease: Hot Water Pipes Demonstration",
+    "department": "Facilities Management",
+    "topic": "Water Hygiene",
+    "level": "Foundation",
+    "source": "Regulator",
+    "channel": "Health and Safety Executive",
+    "publishDate": "2026-10-29",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/ZTTgeMBbR-w",
+    "isNew": true,
+    "summary": "A short UK HSE demonstration video on hot water pipework, showing why keeping water systems clean is central to controlling legionella risk.",
+    "takeaways": [
+      "Clean water systems are a basic legionella control",
+      "Hot water pipework needs regular inspection and maintenance",
+      "Legionella control needs routine checks, not one-off fixes"
+    ],
+    "applyIt": "Include temperature checks, flushing of little-used outlets and tank cleaning in PPM schedules for client buildings, with results recorded in the CAFM system as statutory compliance evidence."
+  },
+  {
+    "id": "pv-017",
+    "title": "Introduction to IPMS (International Property Measurement Standards)",
+    "department": "Property Inspection & Valuation",
+    "topic": "Measurement Standards",
+    "level": "Practitioner",
+    "format": "Process",
+    "source": "Training Academy",
+    "channel": "APC Expert Webinars",
+    "publishDate": "2026-10-29",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/CTNjS3asb10",
+    "isNew": true,
+    "summary": "An APC training webinar introducing the International Property Measurement Standards and why consistent measurement matters for surveyors and valuers.",
+    "takeaways": [
+      "IPMS sets out a consistent, international way to measure buildings",
+      "Always state which measurement basis was used in a report",
+      "Consistent measurement makes comparisons and valuations more reliable"
+    ],
+    "applyIt": "State the measurement basis on every inspection and valuation report, and check developer-quoted areas against site measurements before relying on them."
   }
 ];
