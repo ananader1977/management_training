@@ -2236,5 +2236,186 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Consistent measurement makes comparisons and valuations more reliable"
     ],
     "applyIt": "State the measurement basis on every inspection and valuation report, and check developer-quoted areas against site measurements before relying on them."
+  },
+  {
+    "id": "fin-012",
+    "title": "How to Do a Profitability Analysis",
+    "department": "Finance",
+    "topic": "Contract Profitability",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "I Hate Numbers",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/nR88ZrP0AUw",
+    "isNew": true,
+    "summary": "A business finance coach shows how to analyse where a business really makes money by working out profit margins and the lifetime value of customers.",
+    "takeaways": [
+      "Calculate margin per customer or contract, not just for the business as a whole",
+      "Customer lifetime value shows which clients are worth investing in",
+      "Good, up-to-date accounting data makes profitability reviews quick and repeatable"
+    ],
+    "applyIt": "Run a quarterly margin review of each MEP maintenance contract and client, using CAFM labour and material costs, to spot loss-making sites before renewal."
+  },
+  {
+    "id": "lead-013",
+    "title": "Managing Conflict in Teams — Lindred Greer",
+    "department": "Leadership",
+    "topic": "Managing Conflict",
+    "level": "Executive",
+    "source": "Training Academy",
+    "channel": "Stanford Graduate School of Business",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/YVWpipM-Rnw",
+    "isNew": true,
+    "summary": "Stanford professor Lindred Greer explains why unmanaged team conflict spreads and hurts productivity and retention, and how leaders can contain and resolve it.",
+    "takeaways": [
+      "Unaddressed conflict spreads across a team and drives turnover",
+      "Step in early and separate task disagreements from personal friction",
+      "Leaders set the norms for how disagreement is raised and resolved"
+    ],
+    "applyIt": "Set a clear escalation route for disputes between site teams, supervisors and subcontractors so conflicts are resolved within days rather than left to affect service delivery."
+  },
+  {
+    "id": "proc-011",
+    "title": "How to Select a Supplier: The Supplier Onboarding Process",
+    "department": "Procurement",
+    "topic": "Supplier Onboarding",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Procurement Academy",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/DE_V-KluZc8",
+    "isNew": true,
+    "summary": "An introduction to the main factors buyers should weigh when selecting and onboarding a supplier for goods, works or services.",
+    "takeaways": [
+      "Define selection criteria before inviting suppliers",
+      "Check capability, compliance and financial stability, not only price",
+      "A structured onboarding step reduces risk once orders start"
+    ],
+    "applyIt": "Use a standard onboarding checklist (trade licence, insurance, HSE record, references) before any new MEP supplier or subcontractor is added to the approved vendor list."
+  },
+  {
+    "id": "hr-012",
+    "title": "UAE Labour Law Updates and Implications for Employers (CIPD Webinar)",
+    "department": "HR",
+    "topic": "UAE Labour Law",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "CIPD Middle East",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/dCwcOhscDlY",
+    "isNew": true,
+    "summary": "CIPD Middle East and law firm Clyde & Co walk employers through the federal UAE labour law reforms, covering fixed-term contracts, new work models, leave and working-hours rules.",
+    "takeaways": [
+      "All employment contracts must now be fixed-term under the federal law",
+      "New work models (part-time, flexible, temporary) are formally recognised",
+      "Leave entitlements and working-hour rules need to be reflected in contracts and policies"
+    ],
+    "applyIt": "Review Al Bonian FM offer letters, shift patterns and leave policies for site technicians against the federal labour law requirements covered here."
+  },
+  {
+    "id": "qhse-012",
+    "title": "What Is an Environmental Aspects and Impacts Register? (ISO 14001)",
+    "department": "Quality & HSE",
+    "topic": "ISO 14001",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Spire Safety Consultants",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/uomX1R6Gpu8",
+    "isNew": true,
+    "summary": "Explains how an ISO 14001 aspects and impacts register maps an organisation’s interactions with the environment and helps decide which risks need controls.",
+    "takeaways": [
+      "List activities such as waste, emissions and resource use as environmental aspects",
+      "Rate the significance of each impact to prioritise action",
+      "Significant aspects drive objectives, controls and monitoring in the EMS"
+    ],
+    "applyIt": "Build an aspects register for FM operations (refrigerant handling, chemical use, waste oil, water and energy use) to steer environmental priorities and client reporting."
+  },
+  {
+    "id": "bd-013",
+    "title": "How to Sell B2B Services",
+    "department": "Business Development",
+    "topic": "B2B Services Selling",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Angelique Rewers",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/AavIFMk5EKU",
+    "isNew": true,
+    "summary": "Explains how selling services to businesses depends on understanding what the buyer values, creating urgency and balancing logic with emotion in the decision.",
+    "takeaways": [
+      "Lead with the client’s business problem, not your list of services",
+      "Create genuine urgency by linking your service to the client’s priorities",
+      "B2B buyers decide on both logic and emotion, so address risk and trust"
+    ],
+    "applyIt": "Frame FM proposals to property owners around their pain points (downtime, tenant complaints, compliance risk) rather than a generic list of MEP services."
+  },
+  {
+    "id": "it-011",
+    "title": "Low-Code/No-Code with Zoho Creator",
+    "department": "IT",
+    "topic": "Low-Code Platforms",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Zoho",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/F2TlSzmPmlc",
+    "isNew": true,
+    "summary": "Zoho introduces how Creator’s drag-and-drop builders, templates, code snippets and integrations let teams build custom business apps quickly.",
+    "takeaways": [
+      "Visual builders and templates speed up form and report creation",
+      "Pre-built snippets and integrations reduce custom coding",
+      "AI, analytics and process automation can be layered onto apps"
+    ],
+    "applyIt": "Identify one manual paper or spreadsheet process (e.g. site inspection checklists) and rebuild it as a Zoho Creator app linked to existing company data."
+  },
+  {
+    "id": "fm-017",
+    "title": "Using SLAs and KPIs for Effective Vendor Performance Management",
+    "department": "Facilities Management",
+    "topic": "SLA & Contract Management",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Venminder",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/O_kJ6wtQDm4",
+    "isNew": true,
+    "summary": "A webinar on turning service expectations into formal SLAs and KPIs, reviewing vendor performance regularly and acting early when it slips.",
+    "takeaways": [
+      "Translate expectations into measurable SLAs and supporting KPIs",
+      "Set a regular review rhythm proportionate to contract risk",
+      "Watch for early signs of decline and act before failures escalate"
+    ],
+    "applyIt": "Align each client contract’s SLAs (response times, PPM compliance) with CAFM-reported KPIs and apply the same discipline to subcontractor performance reviews."
+  },
+  {
+    "id": "pv-018",
+    "title": "Due Diligence in Commercial Real Estate: Step-by-Step Guide",
+    "department": "Property Inspection & Valuation",
+    "topic": "Due Diligence",
+    "level": "Foundation",
+    "format": "Process",
+    "source": "Industry Expert",
+    "channel": "North Star Commercial Real Estate Advisors",
+    "publishDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/K03UTr5R_PU",
+    "isNew": true,
+    "summary": "Walks through the main stages of buying commercial property, including financing checks, environmental studies, physical inspections and document review.",
+    "takeaways": [
+      "Due diligence combines financial, legal, environmental and physical checks",
+      "Physical inspections uncover costs that affect price and negotiation",
+      "Organise document reviews against a checklist and timeline"
+    ],
+    "applyIt": "Package Al Bonian FM inspection and condition reports as the physical due-diligence component for investors and developers buying buildings in Dubai."
   }
 ];
